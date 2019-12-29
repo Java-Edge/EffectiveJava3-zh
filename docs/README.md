@@ -1,8 +1,8 @@
 # Effective Java 第三版 中文
 
-<!-- <div style="margin: 0 auto; width: 40%;">
+<div style="margin: 0 auto; width: 40%;">
   <img src='./cover.png'/>
-</div> -->
+</div>
 
 ## 序
 

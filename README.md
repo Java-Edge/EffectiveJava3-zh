@@ -1,10 +1,10 @@
 # EffectiveJava3-zh
 
-Effective Java 第三版 中文翻译
+《Effective Java 第三版》中文翻译
 
 在线阅读：[http://gdut_yy.gitee.io/doc-ej3/](http://gdut_yy.gitee.io/doc-ej3/)
 
-<!-- <img src="./docs/cover.png" width=40%> -->
+<img src="./docs/cover.png" width=24%>
 
 ## 前言
 
@@ -29,18 +29,12 @@ Effective Java 第三版 中文翻译
 依赖于 `node.js`、`yarn`、`vuepress` 等环境
 
 ```sh
-# node
-node -v
-> v10.14.1
-# yarn
-yarn -v
-> 1.13.0
 # vuepress
 yarn global add vuepress
 
 # 本地开发
 git clone https://github.com/gdut-yy/EffectiveJava3-zh.git
-cd EffectiveJava3-zh
+cd EffectiveJava3-zh/
 yarn docs:dev
 
 # 本地阅读
