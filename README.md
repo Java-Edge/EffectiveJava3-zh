@@ -4,11 +4,9 @@
 
 在线阅读：[http://gdut_yy.gitee.io/doc-ej3/](http://gdut_yy.gitee.io/doc-ej3/)
 
-<img src="./docs/cover.png" width=24%>
+<img src="./docs/cover.png" width=24% />
 
-## 前言
-
-## Index
+## 目录
 
 - [第 2 章 创建和销毁对象](docs/ch2.md)
 - [第 3 章 对象的通用方法](docs/ch3.md)
@@ -36,11 +34,12 @@ yarn global add vuepress
 git clone https://github.com/gdut-yy/EffectiveJava3-zh.git
 cd EffectiveJava3-zh/
 yarn docs:dev
-
-# 本地阅读
-http://localhost:8080/doc-ej3/
 ```
+
+## 更多书籍
+
+[https://github.com/xx-zh/xx-zh-roadmap](https://github.com/xx-zh/xx-zh-roadmap)
 
 ## License
 
-[MIT](https://github.com/gdut-yy/EffectiveJava3-zh/blob/master/LICENSE)
+[MIT](./LICENSE)

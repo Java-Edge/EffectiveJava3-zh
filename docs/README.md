@@ -1,12 +1,6 @@
-# Effective Java 第三版 中文
+# 目录
 
-<div style="margin: 0 auto; width: 40%;">
-  <img src='./cover.png'/>
-</div>
-
-## 序
-
-## 目录
+<img src="./cover.png" style="width: 28%" />
 
 - [第 2 章 创建和销毁对象](ch2.md)
 - [第 3 章 对象的通用方法](ch3.md)
